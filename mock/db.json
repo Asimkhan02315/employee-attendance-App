@@ -1,0 +1,86 @@
+{
+    "users": [
+      {
+        "id": 1
+      },
+      {
+        "email": "olivier@mail.com",
+        "password": "$2a$10$ZciBac42YhAq8HDTuTE1Se00OAJ/7zBTJDNekmt.OXPH/hzJbtkVG",
+        "id": 2
+      },
+      {
+        "email": "test@gmail.com",
+        "password": "$2a$10$utU4j5TulmMqZyc3E9Me9ONxUek7gMiTnLSAxJDlZwRqLOcVGLm/W",
+        "id": 3
+      },
+      {
+        "email": "testing@gmail.com",
+        "password": "$2a$10$qgarfrwdXZVqODTZpdidg.rd4MRat7QZgxSAIAUtdC7PcDezndEVm",
+        "id": 4
+      },
+      {
+        "email": "irfan@gmail.com",
+        "password": "$2a$10$/X/ecnVKk1ucKtWK4nHuyuK4ReHLXTKxG6eS6bgWU5D4aZurYQj7K",
+        "id": 5
+      },
+      {
+        "email": "asim@gmail.com",
+        "password": "$2a$10$VUoBc8mH7kPqFxSkB1xhp.MR3P0RqI6/0qxV/cGOVFTsK0TPPuFRW",
+        "id": 6
+      },
+      {
+        "email": "asim123@gmail.com",
+        "password": "$2a$10$LgE8vrM7a.DcUK15t0Hzf.9vUyDDEeNIY/ZdpXjUSyHt7wK1/9PQu",
+        "id": 7
+      }
+    ],
+    "employee": [
+      {
+        "employee_code": "321",
+        "employee_name": "Ayush Panday",
+        "logintime": "11:00",
+        "logouttime": "07:30",
+        "status": "Inactive",
+        "label": "Pending",
+        "id": 1
+      },
+      {
+        "employee_code": "123",
+        "employee_name": "Asim Khan",
+        "logintime": "10:00 ",
+        "logouttime": "07:30",
+        "status": "active",
+        "label": "start",
+        "id": 2
+      },
+      {
+        "employee_code": "111",
+        "employee_name": "reet",
+        "logintime": "10:36",
+        "logouttime": "11:37",
+        "status": "active",
+        "label": "start",
+        "id": 3
+      },
+      {
+        "employee_code": "1",
+        "employee_name": "Raju",
+        "date": "2023-02-18",
+        "logintime": "10:00",
+        "logouttime": "11:00",
+        "status": "Inactive",
+        "label": "Pending",
+        "id": 4
+      },
+      {
+        "employee_code": "111",
+        "employee_name": "Asim Khan",
+        "date": "2023-02-16",
+        "logintime": "10:00",
+        "logouttime": "07:43",
+        "status": "Active",
+        "label": "Start",
+        "id": 5
+      }
+    ]
+  }
